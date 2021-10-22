@@ -1,4 +1,4 @@
-- Hi, I’m Henry Hdz (Hoec)
+- Hi, I’m Henry
 - I'm a civil engineering graduate and a self-taught programmer 
 - I’m interested in CS in general, computer graphics and scientific computation in particular.
 - I'm also interested in digital bussinesses and startups.
