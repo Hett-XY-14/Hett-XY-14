@@ -1,9 +1,9 @@
-- Hi, I’m Henry
+- Hi, I'm Henry
 - I'm a Civil Engineering graduate and a Computer Engineering student.
-- I’m interested in CS in general, computer graphics and scientific computation in particular.
-- I'm also interested in digital bussinesses.
-- I’m currently learning data estructures, algortithms and web developement. 
-- I’m looking to collaborate on projects to enhance freedom, privacy and security and well being of people.
+- Interested in CS in general, computer graphics and scientific computation in particular.
+- Also interested in digital bussinesses.
+- Currently learning data estructures, algortithms and web developement. 
+- Looking to collaborate on projects to enhance freedom, privacy and security and well being of people.
 - 📫 How to reach me: hett.pie@gmail.com
 
 <!---
